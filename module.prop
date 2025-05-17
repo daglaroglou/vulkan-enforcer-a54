@@ -1,0 +1,6 @@
+id=a54vulkan
+name=Vulkan Renderer Forcer
+version=1.0.0
+versionCode=1
+author=DaG
+description=Force Skia Vulkan renderer on Samsung A54.
