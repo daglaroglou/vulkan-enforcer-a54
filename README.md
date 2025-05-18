@@ -2,6 +2,8 @@
 
 Force Vulkan renderer on A54.
 
-### Usage
+## Known bugs
+Video previews sometimes bug (includes social media apps).
 
-Flash on Magisk
+### Installation
+Flash on Magisk/KSU.
